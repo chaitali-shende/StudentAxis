@@ -43,37 +43,58 @@ The project demonstrates **Java Collections Framework, Exception Handling, Valid
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 StudentDataManagement/
+
 │── src/
+
 │ └── com/student_record/StudentDataManagement.java
+
 │── README.md
+
 │── .gitignore
 
 ---
 
 📌 Sample Menu
+
 ---- Student Data ----
+
 1. Add Student
+
 2. Update Marks
+
 3. Delete Student
+
 4. Search Student
+
 5. Display All Students
+
 6. Show Topper
+
 7. Show Lowest Scorer
+
 8. Show Total and Average Marks
+
 9. Exit
 
 ---
 
 🎯 Example Run
+
 Enter your Choice: 1
+
 Enter Student Name: Smith
+
 Enter Marks: 95
+
 ✅ Student added successfully!
 
+
+
 Enter your Choice: 6
+
 🏆 Topper: Smith : 95
 
 ---
@@ -91,7 +112,3 @@ Save/load student data from file or database
 Chaitali Shende
 📌 Passionate about Java, Collections, OOP, and building real-world projects.
 
-
-
-
-## 📂 Project Structure
